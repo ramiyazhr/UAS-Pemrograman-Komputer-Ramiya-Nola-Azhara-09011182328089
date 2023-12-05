@@ -1,2 +1,2 @@
 # UAS-Pemrograman-Komputer-Ramiya-Nola-Azhara-09011182328089
-UAS Pemrograman Komputer, Ramiya Nola Azhara SK1B, 09011182328089, Fakultas Ilmu Komputer Prodi Sistem Komputer
+UAS Pemrograman Komputer Nama : Ramiya Nola Azhara NIM : 09011182328089 Kelas SK1B Fakultas Ilmu Komputer Prodi Sistem Komputer
